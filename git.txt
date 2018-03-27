@@ -1,0 +1,9 @@
+git init -- To initialize file to git repository
+git add filename.py -- To add something to git repository
+git commit -- final i.e, we can't change anything after we have committed. .if we have modified particular file then we need to commit and push that file
+git remote add origin -- where we need to send that file (ex:To certain git repository)
+git push -- To push that particular file to git repository
+git status -- To check if that file has been modified or not
+git config -- To config our details like username,email etc
+git clone -- If 2 or more persons are working on same project then we can look at that file by simply clonning a link shared by those team members and if needed we can modify it or just test it
+
